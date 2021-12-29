@@ -3,7 +3,7 @@
 * **Email:** *zhenyav666@gmail.com*
 * **Phone:** *+375445150250*
 ## *Information* 
-My name is Eugene and I am 29. At the moment I combine work and study at rsschool courses. I wish to explore a new direction in IT.
+My name is Yauhen and I am 29. At the moment I combine work and study at rsschool courses. I wish to explore a new direction in IT.
 ## *Skills* 
 No programming experience, so I started with preparatory courses.
 
