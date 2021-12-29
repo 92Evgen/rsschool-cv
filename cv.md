@@ -12,7 +12,9 @@ This is a JS example
 var test = "Hello";
 console.log(test);
 ```
-
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+## *Experience* 
+* Studing The Rolling Scopes JS / FRONT-END. STAGE 0
+## *Education*
+* Graduated from Sukhoi State Technical University of Gomel Power Engineering Faculty
+## *English Level*
+* I can say and understand a few things in English.	A1
